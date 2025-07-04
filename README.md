@@ -115,19 +115,7 @@ Open the provided local URL in your browser.
    - Weather forecast and daily expense breakdown
    - Option to export the plan as a Markdown file
 
----
 
-## 📝 Contributing
-
-Contributions are welcome! Please open issues or pull requests for improvements, bug fixes, or new features.
-
----
-
-## 🛡️ License
-
-This project is licensed under the MIT License.
-
----
 
 ## 🙏 Acknowledgements
 
